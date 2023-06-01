@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phongngo511
+- 👋 Hi, I’m @phong
 - 👀 I’m interested in iOS/Swift/Objective-C and Apple ecosystem
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on any iOS Projects

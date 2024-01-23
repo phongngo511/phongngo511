@@ -1,6 +1,6 @@
 👋 Hi, I’m @phongpn
 
-💞️ I’m currently expand my knowledge into AR/VR & VisionOS
+💞️ Currently exploring AR/VR & VisionOS
 
 📫 How to reach me phongngo0511@gmail.com
 

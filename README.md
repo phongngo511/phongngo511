@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @phong
-- 👀 I’m interested in iOS/Swift/Objective-C and Apple ecosystem
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on any iOS Projects
-- 📫 How to reach me phongngo0511@gmail.com
+👋 Hi, I’m @phongpn
+
+💞️ I’m currently expand my knowledge into AR/VR & VisionOS
+
+📫 How to reach me phongngo0511@gmail.com
 
 <!---
 phongngo511/phongngo511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
